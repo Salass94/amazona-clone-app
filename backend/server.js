@@ -9,7 +9,9 @@ app.get('/api/products', (req, res) => {
 app.get('/', (req, res) => {
     res.send('Server is ready');
 });
+
 const port = process.env.PORT || 5000
+
 app.listen(5000, () => {
-    console.log(`Sereve at http://localhost:${port}`);
+    console.log(`Serve at http://localhost:${port}`);
 })
