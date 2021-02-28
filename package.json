@@ -1,5 +1,6 @@
 {
   "name": "amazona",
+  "proxy": "http://127.0.0.1:5000",
   "type": "module",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000a\u0000m\u0000a\u0000z\u0000o\u0000n\u0000a\u0000-\u0000c\u0000l\u0000o\u0000n\u0000e\u0000-\u0000a\u0000p\u0000p\u0000\r\u0000 \u0000",
