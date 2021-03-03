@@ -18,7 +18,7 @@ const data = {
             name: 'Alassan',
             category: 'Schirts',
             image: '/images/p2.jpg',
-            price: 1200,countInStock: 20,
+            price: 1200,countInStock: 15,
             brand: 'Nike',
             rating: 4,
             numReviews: 30,
